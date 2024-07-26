@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: XDgqLbhTaEr/TDLbibnRGXM4pjc
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Qwc/fH8zdwxwDFdtN9Wdpkm1l8I
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: jOsw4PgSoEUfxHxNPC1tKNOVEQU
+

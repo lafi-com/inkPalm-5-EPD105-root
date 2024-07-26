@@ -1,0 +1,2 @@
+# https://github.com/qwerty12/inkPalm-5-EPD105-root
+package_extract_file("boot.img","/dev/block/by-name/boot");

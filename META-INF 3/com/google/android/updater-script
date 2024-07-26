@@ -1,0 +1,3 @@
+# https://github.com/qwerty12/inkPalm-5-EPD105-root
+mount("ext4", "EMMC", "/dev/block/by-name/system", "/system");
+run_program("/system/bin/toybox", "dd", "if=/dev/block/by-name/boot", "of=/system/bimg.img");
